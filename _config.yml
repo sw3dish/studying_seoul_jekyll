@@ -11,7 +11,7 @@ description:         'Seoul'
 url:                 http://studyingseoul.com
 baseurl:             ''
 paginate:            5
-paginate_path: "page:num"
+paginate_path:       "page:num"
 
 # About/contact
 author:
@@ -22,4 +22,4 @@ author:
 # Custom vars
 version:             1.0.0
 
-gems: [jekyll-gist, jekyll-paginate]
+gems:               [jekyll-gist, jekyll-paginate]
