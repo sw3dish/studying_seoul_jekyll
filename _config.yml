@@ -19,6 +19,10 @@ author:
   url:               https://twitter.com/ColinABurr
   email:             colin.a.burr@gmail.com
 
+# Github
+github:
+  repo:              https://github.com/sw3dish/studying_seoul_jekyll
+
 # Custom vars
 version:             1.0.0
 
