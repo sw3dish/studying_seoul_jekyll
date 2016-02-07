@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Studying Seoul
+tagline:             'Seoul'
+description:         'Seoul'
+url:                 http://studyingseoul.com
+baseurl:             ''
+paginate:            5
+paginate_path: "page:num"
+
+# About/contact
+author:
+  name:              Colin Burr
+  url:               https://twitter.com/ColinABurr
+  email:             colin.a.burr@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-gist, jekyll-paginate]
