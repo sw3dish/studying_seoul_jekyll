@@ -6,8 +6,13 @@ permalink:           pretty
 
 # Setup
 title:               Studying Seoul
-tagline:             'Seoul'
-description:         'Seoul'
+tagline:             'A very American look at a very Korean place'
+description:         >
+                      안녕하세요! My name is Colin -- I'm a sophomore at the University
+                      of Maryland. I'm studying at Yonsei University this semester,
+                      which is a long way from home. I've already almost exhausted
+                      my knowledge of Korean in this introduction, but hope to remedy this
+                      while exploring Seoul.
 url:                 http://studyingseoul.com
 baseurl:             ''
 paginate:            5
