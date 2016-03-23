@@ -22,7 +22,7 @@
       <div class="container content">
         {{ content }}
       </div>
-
+      {% include disqus_comments.html %}
     </div>
 
 
@@ -47,7 +47,4 @@
       })(document);
     </script>
   </body>
-  <footer>
-    {% include disqus_comments.html %}
-  </footer>
 </html>
